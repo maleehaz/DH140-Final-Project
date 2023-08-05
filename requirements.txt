@@ -1,4 +1,10 @@
 scikit-learn
+pandas
 matplotlib
 nltk
-gensim
+plotly_express
+numpy
+requests
+folium
+geopandas
+plotly.io
